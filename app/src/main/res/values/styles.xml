@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.DinoAdmin">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Text styles -->
+    <style name="TextTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="TextSubtitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/neon_green</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <style name="TextBody">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/gray_300</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="TextCaption">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/gray_400</item>
+    </style>
+
+    <!-- Card styles -->
+    <style name="CardStyle">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">8dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+
+    <style name="CardStyle3D">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">15dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+
+    <!-- Button styles -->
+    <style name="ButtonPrimary" parent="Widget.DinoAdmin.Button">
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/button_gradient</item>
+    </style>
+
+    <style name="ButtonSecondary" parent="Widget.DinoAdmin.Button">
+        <item name="android:padding">14dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/neon_blue</item>
+        <item name="android:backgroundTint">@color/semi_transparent</item>
+    </style>
+
+    <!-- Progress bar styles -->
+    <style name="ProgressBarStyle" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateTint">@color/neon_green</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+    </style>
+
+    <!-- EditText styles -->
+    <style name="EditTextStyle">
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:hintTextColor">@color/gray_400</item>
+    </style>
+
+    <!-- Switch styles -->
+    <style name="SwitchStyle" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:trackTint">@color/gray_700</item>
+        <item name="android:thumbTint">@color/neon_green</item>
+    </style>
+
+    <!-- Toolbar styles -->
+    <style name="ToolbarStyle">
+        <item name="android:background">@color/dark_purple</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="subtitleTextColor">@color/neon_green</item>
+    </style>
+
+    <!-- Notification styles -->
+    <style name="NotificationStyle">
+        <item name="android:background">@color/card_background</item>
+        <item name="android:padding">12dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+</resources>
