@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286264647256",
+    "project_id": "dinoadmin",
+    "storage_bucket": "dinoadmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286264647256:android:d9a61a98eb1d61b9c7342d",
+        "android_client_info": {
+          "package_name": "dino.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzngFdT4hHjLPPun1qWqUhlIiOkkKGfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
