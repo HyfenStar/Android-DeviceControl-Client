@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Neon Colors for 3D Effect -->
+    <color name="neon_blue">#00D4FF</color>
+    <color name="neon_green">#00FF9D</color>
+    <color name="neon_purple">#9D4EDD</color>
+    <color name="neon_red">#FF005C</color>
+    <color name="neon_yellow">#FFD700</color>
+    <color name="neon_orange">#FF6B35</color>
+    
+    <!-- Background Colors -->
+    <color name="dark_purple">#0A0A1A</color>
+    <color name="card_background">#1A1A2E</color>
+    <color name="semi_transparent">#80FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="gray_300">#CCCCCC</color>
+    <color name="gray_400">#999999</color>
+    <color name="gray_700">#555555</color>
+</resources>
