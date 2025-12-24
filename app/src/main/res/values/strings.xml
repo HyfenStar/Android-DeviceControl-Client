@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dino Admin</string>
+    <string name="start_service">Start Protection Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="connected">Connected to Control Panel</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="service_running">🛡️ Protection Active</string>
+</resources>
